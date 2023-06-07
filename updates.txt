@@ -1,0 +1,7 @@
+PLEASE APPEND WHENEVER YOU WANT WITH INFO, NAME AND DATE/TIME.
+
+7.6.23 @ 1520 Will Hough
+Created repository, folder system, basic new page/css/folder structure. Also put in old website for reference. We need to create a good file
+structure (images & other pages in their own folders) without adding too many.
+
+Example websites from Erin: https://www.upmcc.co.uk/   https://eumc.eusu.ed.ac.uk/   https://climbingsoc.uwcs.co.uk/   https://www.cumc.org.uk/home
